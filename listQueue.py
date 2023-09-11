@@ -1,5 +1,5 @@
 """
-Filename : queuePy
+Filename : listQueue.py
 Author : Archit Joshi
 Description : Implementing queue datastructure using python list (FIFO)
 Language : python3
@@ -59,3 +59,13 @@ class Queue:
         if self.isEmpty():
             return None
         return self.queue[0]
+
+    def clear(self):
+        """
+        Clear the queue.
+
+        :return: None
+        """
+        if self.isEmpty():
+            return None
+        self.queue.clear()

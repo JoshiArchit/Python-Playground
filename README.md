@@ -4,7 +4,7 @@
 
 1. [generate_dataset.py](generate_dataset.py) - Script to generate random 
    dataset.
-2. [queuePy.py](queuePy.py) - Script to implement queues using list 
+2. [queuePy.py](listQueue.py) - Script to implement queues using list 
    datastructure.
-3. [stackPy.py](stackPy.py) - Script to implement stacks using list 
+3. [stackPy.py](listStack.py) - Script to implement stacks using list 
    datastructure.

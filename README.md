@@ -1,8 +1,10 @@
 <h1>Python Playground</h1>
 <h3>Repository for miscallaneous python scripts</h3>
 <h3>INDEX</h3>
-<list>
-  <li>Script to generate a data set</li>
-  <li>Script to implement queues using lists</li>
-  <li>Script to implement stacks using lists</li>
-</list>
+
+1. [generate_dataset.py](generate_dataset.py) - Script to generate random 
+   dataset.
+2. [queuePy.py](queuePy.py) - Script to implement queues using list 
+   datastructure.
+3. [stackPy.py](stackPy.py) - Script to implement stacks using list 
+   datastructure.

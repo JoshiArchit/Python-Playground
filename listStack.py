@@ -1,5 +1,5 @@
 """
-Filename : stackPy
+Filename : listStack.py
 Author : Archit Joshi
 Description : Implementing stack datastructure using list (LIFO)
 Language : python3
